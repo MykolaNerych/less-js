@@ -1,4 +1,4 @@
-// GIT comands
+// GIT comands - kokos
 // git status
 // git add .
 // git commit -m"YOUR message"
