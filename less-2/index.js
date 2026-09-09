@@ -1,3 +1,4 @@
+// GIT comands
 // git status
 // git add .
 // git commit -m"YOUR message"
