@@ -1,4 +1,4 @@
-// GIT comands
+// GIT comands 100500
 // git status
 // git add .
 // git commit -m"YOUR message"
